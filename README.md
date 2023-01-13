@@ -3,4 +3,4 @@ Customer Churn prediction means knowing which customers are likely to leave or u
 The main goal of Customer Churn Prediction is to reduce churn and increase business profits
 
 
-
+![alt text](Reduce-churn-Rate-01.jpg)
