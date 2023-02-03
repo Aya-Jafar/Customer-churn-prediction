@@ -6,3 +6,5 @@ The main goal of Customer Churn Prediction is to reduce churn and increase busin
 
 
 ![alt text](Reduce-churn-Rate-01.jpg)
+
+![alt text](https://github.com/Aya-Jafar/Customer-churn-prediction/blob/main/WM-Screenshots-20230203091440.png)
